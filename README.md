@@ -14,7 +14,7 @@ Just download the template you need and modify it. It is ready to be used.
                                                                                                                        
 ## License                                                                                                              
                                                                                                                         
-This project is licensed under the MIT License - see the [LICENSE.md](MIT-LICENSE.md) file for details 
+This project is licensed under the MIT License - see the [MIT-LICENSE.md](MIT-LICENSE.md) file for details 
 
 
           
