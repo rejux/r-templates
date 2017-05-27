@@ -10,7 +10,7 @@ Just download the template you need and modify it. It is ready to be used.
                                                                                                                        
 ## Authors                                                                                                              
                                                                                                                         
-* [**Régis KLA**](https://klaregis-portal.appspot.com/)                                  
+* [**Régis KLA (rejux)**](https://klaregis-portal.appspot.com/)                                  
                                                                                                                        
 ## License                                                                                                              
                                                                                                                         
